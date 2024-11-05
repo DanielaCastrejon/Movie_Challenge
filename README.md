@@ -2,7 +2,7 @@
 
 La tecnología ha revolucionado la forma en que consumimos contenido audiovisual. Los buscadores tradicionales a menudo presentan resultados dispersos y poco relevantes. Nuestro proyecto busca aprovechar las últimas tendencias en desarrollo web y machine learning para crear un buscador de películas inteligente y personalizado, capaz de entender las preferencias de cada usuario y ofrecerle recomendaciones precisas.
 
-Un buscador de películas bien diseñado puede ofrecer numerosos beneficios a los usuarios, como ahorrar tiempo en la búsqueda, descubrir películas desconocidas, comparar precios y acceder a información detallada sobre cada título. Además, puede servir como una herramienta de descubrimiento para cineastas independientes y distribuidores de cine. 
+Un buscador de películas bien diseñado 
 
 _POR EL MOMENTO MOVIE SPACE, SOLO FUNCIONA CON UN BÚSCADOR BÁSICO PERO SIGO APRENDIENDO PARA PODER MEJORLA :)_
 
