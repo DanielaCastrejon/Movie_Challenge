@@ -4,6 +4,8 @@ La tecnología ha revolucionado la forma en que consumimos contenido audiovisual
 
 Un buscador de películas bien diseñado puede ofrecer numerosos beneficios a los usuarios, como ahorrar tiempo en la búsqueda, descubrir películas desconocidas, comparar precios y acceder a información detallada sobre cada título. Además, puede servir como una herramienta de descubrimiento para cineastas independientes y distribuidores de cine. 
 
+_POR EL MOMENTO MOVIE SPACE, SOLO FUNCIONA CON UN BÚSCADOR BÁSICO PERO SIGO APRENDIENDO PARA PODER MEJORLA :)_
+
 ![Movie-Space-Logo](https://github.com/user-attachments/assets/13b0d093-8c68-4a75-ad51-08215da28d2f)
 
 # Objetivo
